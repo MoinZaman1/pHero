@@ -1,0 +1,13 @@
+h1{
+    color:brown;
+    text-align: center;
+    border: 10px solid blue;
+    border-radius: 20px;
+}
+
+div{
+    color:brown;
+    text-align: justify;
+    border: 10px solid blue;
+    border-radius: 20px;
+}
